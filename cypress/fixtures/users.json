@@ -1,0 +1,23 @@
+{
+    "userAutor": {
+      "email": "gromova_student@eicb.ru",
+      "password": "Qwerty123!",
+      "name": "gromova-student"
+    },
+    "user1": {
+      "email": "gromova_student+test1@eicb.ru",
+      "password": "Qwerty123!",
+      "name": "gromova-student1"
+    },
+    "user2": {
+      "email": "gromova_student+test2@eicb.ru",
+      "password": "Qwerty123!",
+      "name": "gromova-student2"
+    },
+    "user3": {
+      "email": "gromova_student+test3@eicb.ru",
+      "password": "Qwerty123!",
+      "name": "gromova-student3"
+    }
+  }
+  
